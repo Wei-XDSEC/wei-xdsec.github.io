@@ -8,18 +8,18 @@ url: http://wei-xdsec.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: ''
+baseurl: 
 
-#author: Pavel Makhov
-#copyright: 2015-2018
+author: 槐
+copyright: 2018
 
 share:
   facebook: false
   twitter: false
   gplus: false
-  linkedin: true
-  pinterest: true
-  email: true
+  linkedin: false
+  pinterest: false
+  email: false
 
 social:
   github: Wei-XDSEC
