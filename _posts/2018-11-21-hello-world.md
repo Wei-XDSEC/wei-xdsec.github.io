@@ -1,0 +1,8 @@
+---
+layout: post
+title: "hello-world"
+date: 2018-11-21 13:11:06
+description: It's a hello world article:)
+---
+# 为什么要写博客
+嗯，以我现在的水平自然写不出什么好的原创内容，这个博客长时间内应该大多是类似于笔记本收藏夹类的东西吧。
